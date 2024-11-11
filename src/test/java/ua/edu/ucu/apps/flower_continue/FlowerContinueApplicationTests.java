@@ -9,5 +9,4 @@ class FlowerContinueApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
